@@ -1,0 +1,57 @@
+<html>
+<Head><title>SAN LUIS PORTFOLIO</title></head>
+<style>
+th, td {
+  border-radius: 10px;
+}
+ .container {
+	width: 70%;
+	margin: 20px auto;
+	background-color:#f0d9d8;
+	padding: 20px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+</style>
+
+<body style="color: black; background-color:#bf6d67; font-family: "Times New Roman", Times, serif;>
+<div class="container">
+<table style="font-size:50" align="center">
+<tr>
+<td><h1><u>Reflection</u></h1>
+</tr>
+</table>
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<br>
+<br>
+<b>PLAY ME (Goodbye qtr1 ^^)<b>
+<i>Pizza in the cosmos | Akuma Nihmune<i></p>
+<audio controls="play" src="Pizza.mp3" height="350" width="430" align="left" alt="lol"></audio>
+<br>
+<br>
+<table style="font-size:25" align="center" border="1">
+<th> Thank you! </th>
+<tr>
+<td> So... the first quarter's finally come to an end! I've learned so much in ICT all thanks to Ma'am Uminga!Thank you for teaching us about all of the important formats and content you must have in HTML Ma'am. Thanks to you, I have been able to effectively display all of what I've learned from the past quarters and apply them to what I've learned this quarter!<br><br>
+
+I've learned so much from XHTML which holds numerous rules, and CSS that makes your life easier when coding.<br> I know that I'll be able to effectively use these skills for my later stages in life and help me grow as a person. These lessons have really helped me uncover more about myself and my potential as a coder.<br><br>
+
+Though I am aware that I am not the best at ICT and there are definitely people out there like my classmates who are leagues above me in these things, I still choose to find fun in these activities nonetheless. </td>
+<td><img src="pg4.jpeg" height="260" width="230" align="left" alt="lol"</td>
+</tr>
+</table>
+<br><br>
+<b><i>THANK YOU MA'AM!!!</b></i>
+
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p style="font-size:15">Credits:
+
+Anime pictures || Classroom of the Elite<br>
+Are you bored yet? || Wallows&Clairo<br>
+Telephone || Vacations<br>
+Pizza in the cosmos || Akuma Nihmune<br>
+Past Lives || Borns 
+
+</p>
+
+</body>
+</html>

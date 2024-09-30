@@ -1,0 +1,88 @@
+<html>
+<Head><title>SAN LUIS PORTFOLIO</title></head>
+<style>
+th, td {
+  border-radius: 10px;
+}
+ .container {
+	width: 70%;
+	margin: 20px auto;
+	background-color:#f0d9d8;
+	padding: 20px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+</style>
+
+<body style="color: black; background-color:#bf6d67; font-family: "Times New Roman", Times, serif;>
+<div class="container">
+<table style="font-size:50" align="center">
+<tr>
+<td><h1><u>Videos/images</u></h1> </td>
+</tr>
+<tr>
+<td> Within this page, you will see some pictures containing myself and some cool activities we've done within the quarter!</td>
+</tr> 
+</table>
+
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<br>
+<br>
+<p>Past Lives by BØRNS (for nostalgia)</p>
+<audio controls>
+<source src="BØRNS.mp3" type="audio/mpeg">
+Lol
+</audio><br>
+<br>
+<table style="font-size:20" align="center" border="1">
+<th> Some pictures of my cats and I! </th>
+<tr>
+<td align="center"><img src="cats.jpeg" height="350" width="420" align="left" alt="lol"</td>
+<td><img src="mesogood3.jpg" height="460" width="420" align="left" alt="lol"</td>
+<td> 
+</tr>
+</table>
+<br><br>
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<table style="font-size:20" align="center" border="1">
+<th> English song PT </th>
+<td> Here is a snippet of our song. We had to choose <br>a song and change its lyrics to<br> add in third conditionals! <br>We chose 505.</td>
+<td><video controls="play" src="English.mp4" height="350" width="400" align="left" alt="lol"</td>
+</table>
+<br>
+<br>
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<table style="font-size:20" align="center" border="1">
+<th>  ASEAN DEBATE </th>
+<td> Here, we had to watch an ongoing <br> LSPCI ASEAN debate! <br>I am in the black suit<br> as timekeeper.</td>
+<td><img src="ASEAN.jpg" height="350" width="430" align="left" alt="lol"</td>
+</table>
+<br>
+<br>
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<table style="font-size:20" align="center" border="1">
+<th> MAPEH Music<br> video PT </th>
+<td> Here is a snippet of our MV. We had to make a song and music video <br> about the environment! <br>We used songs from Lovejoy <br> and goodkid</td>
+<td><video controls="play" src="LOVELY.mp4" height="350" width="430" align="left" alt="lol"</td>
+</table>
+<br>
+<br>
+<a align="center" href="https://www.youtube.com/watch?v=BSKjBRRQ-rw">here is a link to the full one</a>
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<table style="font-size:20" align="center" border="1">
+<th> MAPEH volleyball </th>
+<td> Shortly after our grouped volleyball<br> performance task in MAPEH,<br> we took this sweet photo!</td>
+<td><img src="VBALL.jpg" height="350" width="430" align="left" alt="lol"</td>
+</table>
+<br>
+<br>
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+<table style="font-size:20" align="center" border="1">
+<th> A picture of my group and I making an ESP poster! </th>
+<tr>
+<td align="center"><img src="ESP.jpg" height="350" width="600" align="left" alt="lol"</td>
+</tr>
+</table>
+
+</body>
+</html>

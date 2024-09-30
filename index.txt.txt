@@ -1,0 +1,67 @@
+<html>
+<Head><title>SAN LUIS PORTFOLIO</title></head>
+<style>
+th, td {
+  border-radius: 10px;
+}
+ .container {
+	width: 70%;
+	margin: 20px auto;
+	background-color:#f0d9d8;
+	padding: 20px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+</style>
+
+<body style="color: black; background-color:#bf6d67; font-family: "Times New Roman", Times, serif;>
+<div class="container">
+<table style="font-size:50" align="center">
+<tr>
+<td><h1><u> Welcome to my portfolio! </u></h1>
+</tr>
+</table>
+
+<table border="1" style="font-size:30">
+
+
+<br> 
+
+
+<tr>
+<td align=”center”>This is a portfolio of mine that I cherish deeply.</td>
+</tr>
+<tr>
+<td >I am <b>Julianrei F. San Luis</b>, a Grade 9 student from Grade 9-Family! <br> I'm 13 years old
+at the date of creation of this site<br> and I am known as a writer, singer, and a charismatic leader
+<br> among my classmates. I have two cute kittens and
+I enjoy Science and Mathematics. 
+<br> I am not too used to the field of coding as it is not my forte, but I love trying new things!<br> I love gaming and I am very fond of studying. I am also an introvert who occasionally loves<br> reading as well as anime.</p></td>
+<td><img src="latest.png" height="350" width="400" align="left" alt="lol"</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<p> <b>PLAY ME<b>
+<i> Are you bored yet? By Wallows ft. Clairo<i></p>
+<audio controls="play" src="SONG2.mp3" height="350" width="430" align="left" alt="lol"></audio>
+<br>
+<br>
+<br>
+<table  border=”1” style="font-size:80">
+<tr>
+<td ><img src="pg1.jpeg" height="450" width="500" align="left" alt="lol"</td>
+<td align="center"><a href="boomersave.html"><u>Photos/videos are found here! 📸</u></td>
+</tr>
+<tr>
+<td align="center"><img src="pg2.jpeg" height="450" width="500" align="left" alt="lol"</td>
+<td align="center"><a href="pawip.html"><u>First quarter information is found here! 💻</u></td>
+</tr>
+<tr>
+<td ><img src="pg3.jpg" height="450" width="500" align="left" alt="lol"</td>
+<td align="center"><a href="Last.html"><u>Reflection! 🔥</u></td>
+</tr>
+</table>
+
+</body>
+</html>
